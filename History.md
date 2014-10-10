@@ -1,3 +1,7 @@
+0.6.0 / 2014-10-05
+
+* Added support for @attribute tag.
+
 0.5.2-appgyver-patch1 / 2014-10-05
 ==================================
 
